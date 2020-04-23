@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B0A5-FFAF
+
+ Directory of C:\Users\HP\Desktop\MyProject
+
+24-04-2020  02:08    <DIR>          .
+24-04-2020  02:08    <DIR>          ..
+24-04-2020  02:08                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  58,745,933,824 bytes free
